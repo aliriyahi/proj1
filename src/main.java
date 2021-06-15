@@ -19,5 +19,6 @@ public class main {
         n[3][3]=0;
         ArrayList<Integer>[][] a = new ArrayList[6][6];
         System.out.println(a);
+        System.out.println("من تونستم پوش کنم");
     }
 }
